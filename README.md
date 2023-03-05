@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GabrielFlores8227/GabrielFlores8227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Gabriel Flores](https://raw.githubusercontent.com/GabrielFlores8227/my-portfolio/main/assets/images/banner/banner.png)](https://www.gabriel-flores.dev/)
