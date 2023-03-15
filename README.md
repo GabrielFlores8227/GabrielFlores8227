@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Gabriel Flores](https://raw.githubusercontent.com/GabrielFlores8227/my-portfolio/main/assets/images/banner/banner.png)](https://www.gabriel-flores.dev/)
+
+## 🚀 Sobre 🚀
+
+Meu nome é Gabriel Flores, sou natural de Araçoiaba da Serra e tenho 20 anos. Sou particularmente apaixonado por desenvolver e criar projetos, especialmente na área de TI. Possuo habilidades significativas no Back-End, mas estou sempre em busca de novos desafios para expandir meus conhecimentos.
