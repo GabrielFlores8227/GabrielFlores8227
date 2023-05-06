@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![Gabriel Flores](https://raw.githubusercontent.com/GabrielFlores8227/my-portfolio/main/assets/images/banner/banner.png)](https://www.gabriel-flores.dev/)
 
-## 🚀 Sobre 🚀
+## 🚀 About 🚀
 
 My name is Gabriel Flores, I'm 20 years old and a native of Sorocaba. I'm particularly drawn to developing and creating projects. I have significant back-end skills, but I'm always looking for new challenges.
 
