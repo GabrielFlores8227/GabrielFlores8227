@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Sobre 🚀
 
-My name is Gabriel Flores, I'm 20 years old and a native of Sorocaba. I'm particularly drawn to developing and creating projects, especially in the field of information technology. I have significant back-end skills, but I'm always looking for new challenges to challenge my knowledge.
+My name is Gabriel Flores, I'm 20 years old and a native of Sorocaba. I'm particularly drawn to developing and creating projects. I have significant back-end skills, but I'm always looking for new challenges.
 
 ## 🌎 WebSite 🌎
 
