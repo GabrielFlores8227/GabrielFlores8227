@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 My name is Gabriel Flores, I'm 20 years old and a native of Sorocaba. I'm particularly drawn to developing and creating projects. I have significant back-end skills, but I'm always looking for new challenges.
 
-## 💻 Programming Languages 💻
-
 ## 🌎 WebSite 🌎
 
 https://www.gabriel-flores.dev/
