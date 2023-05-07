@@ -27,7 +27,9 @@ My name is Gabriel Flores, I'm 20 years old and a native of Sorocaba. I'm partic
 
 ## 🛠️ Main Tools 🛠️
 
-[![Gabriel Flores](https://raw.githubusercontent.com/GabrielFlores8227/my-portfolio/main/assets/images/banner/banner%202.png)](https://www.gabriel-flores.dev/)
+[![Gabriel Flores](https://raw.githubusercontent.com/GabrielFlores8227/my-portfolio/main/assets/images/banners/banner%202.png)](https://www.gabriel-flores.dev/)
+
+I have a passion for building robust back-end applications, including REST APIs, SOAP APIs, and more. Additionally, I enjoy managing databases and Linux servers, ensuring that everything runs smoothly and efficiently.
 
 ## 🌎 WebSite 🌎
 
