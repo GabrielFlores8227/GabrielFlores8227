@@ -19,11 +19,15 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-[![Gabriel Flores](https://github.com/GabrielFlores8227/my-portfolio/blob/main/assets/images/banner/banner.png)](https://www.gabriel-flores.dev/)
+[![Gabriel Flores](https://raw.githubusercontent.com/GabrielFlores8227/my-portfolio/main/assets/images/banners/banner%201.png)](https://www.gabriel-flores.dev/)
 
 ## 🚀 About 🚀
 
 My name is Gabriel Flores, I'm 20 years old and a native of Sorocaba. I'm particularly drawn to developing and creating projects. I have significant back-end skills, but I'm always looking for new challenges.
+
+## 🛠️ Main Tools 🛠️
+
+[![Gabriel Flores](https://raw.githubusercontent.com/GabrielFlores8227/my-portfolio/main/assets/images/banner/banner%202.png)](https://www.gabriel-flores.dev/)
 
 ## 🌎 WebSite 🌎
 
