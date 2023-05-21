@@ -48,6 +48,13 @@ I have a passion for building robust back-end applications, including REST APIs,
 
 ## 🌎 [WebSite](https://www.gabriel-flores.dev/) 🌎
 
-my personal website, where you can discover the real me! Here, I proudly showcase my projects and share my favorite repositories. It's a digital space that offers a glimpse into my world as a developer and allows you to explore my creative endeavors
+[My personal website](https://www.gabriel-flores.dev/), where you can discover the real me! Here, I proudly showcase my projects and share my favorite repositories. It's a digital space that offers a glimpse into my world as a developer and allows you to explore my creative endeavors
+
+##   👩‍💻 Social Media  👩‍💻
+<p>
+  <a href="https://github.com/GabrielFlores8227" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/gabriel-de-almeida-flores-5aba77256/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+    <a href="https://stackoverflow.com/users/20079378/gabriel-flores" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-E34F26.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white"></a> 
+</p>
 
 
