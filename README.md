@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.gabriel-flores.dev/">
-     <img alt="Logo" src="https://github.com/GabrielFlores8227/my-portfolio/blob/main/assets/images/icon/green-icon.png" width="100" />
+    <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height='150'>
   </a>
 </div>
 
@@ -27,10 +27,27 @@ Hello, my name is Gabriel Flores, a 20-year-old native of Sorocaba, currently pu
 
 ## 🛠️ Main Tools 🛠️
 
-[![Gabriel Flores](https://raw.githubusercontent.com/GabrielFlores8227/my-portfolio/main/assets/images/banners/banner%202.png)](https://www.gabriel-flores.dev/)
+<p>
+    <img src="https://img.shields.io/badge/-Aws-f9992e?style=for-the-badge&logo=Amazon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-029be5?style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Debian-aa3031?style=for-the-badge&logo=Debian&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-47973a?style=for-the-badge&logo=Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nginx-47973a?style=for-the-badge&logo=Nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mysql-366d9d?style=for-the-badge&logo=Mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MongoDB-47973a?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-366d9d?style=for-the-badge&logo=Pythont3&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Typescript-366d9d?style=for-the-badge&logo=Typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-47973a?style=for-the-badge&logo=Node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-f9992e?style=for-the-badge&logo=JavaScript&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS-366d9d?style=for-the-badge&logo=CSS3&logoColor=white" />
+</p>
 
 I have a passion for building robust back-end applications, including REST APIs, SOAP APIs, and more. Additionally, I enjoy managing databases and Linux servers, ensuring that everything runs smoothly and efficiently.
 
-## 🌎 WebSite 🌎
+## 🌎 [WebSite](https://www.gabriel-flores.dev/) 🌎
 
-https://www.gabriel-flores.dev/
+my personal website, where you can discover the real me! Here, I proudly showcase my projects and share my favorite repositories. It's a digital space that offers a glimpse into my world as a developer and allows you to explore my creative endeavors
+
+
