@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.gabriel-flores.dev/">
-    <img src='https://github.com/GabrielFlores8227/GabrielFlores8227/blob/main/assets/gif.gif' height='150'>
+    <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height='150'>
   </a>
 </div>
 
