@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-[![Gabriel Flores](https://raw.githubusercontent.com/GabrielFlores8227/my-portfolio/main/assets/images/banners/banner%201.png)](https://www.gabriel-flores.dev/)
+[![Gabriel Flores](https://github.com/GabrielFlores8227/GabrielFlores8227/blob/main/assets/banner.png)](https://www.gabriel-flores.dev/)
 
 ## 🚀 About 🚀
 
