@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Gabriel Flores](https://github.com/GabrielFlores8227/GabrielFlores8227/blob/main/assets/banner.png)](https://www.gabriel-flores.dev/)
 
-Hello, my name is Gabriel Flores, a 20-year-old native of Sorocaba, currently pursuing a degree in Systems Development. I have a keen interest in developing and bringing projects to life. While I possess significant back-end skills, I am constantly seeking new challenges to broaden my horizons.
+Currently pursuing a degree in Systems Development. I have a keen interest in developing and bringing projects to life. While I possess significant back-end skills, I am constantly seeking new challenges to broaden my horizons.
 
 ## 🛠️ Main Tools 🛠️
 
