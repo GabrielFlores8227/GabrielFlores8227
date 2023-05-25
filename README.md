@@ -58,6 +58,7 @@ I have a passion for building robust back-end applications, including REST APIs,
   <a href="https://github.com/GabrielFlores8227" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/gabriel-de-almeida-flores-5aba77256/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
     <a href="https://stackoverflow.com/users/20079378/gabriel-flores" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-E34F26.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white"></a> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielflores20032003@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-%230077B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white"></a> 
 </p>
 
 
