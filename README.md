@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## 🚀 About 🚀
-
 [![Gabriel Flores](https://github.com/GabrielFlores8227/GabrielFlores8227/blob/main/assets/banner.png)](https://www.gabriel-flores.dev/)
+
+## 🚀 About 🚀
 
 Currently pursuing a degree in Systems Development. I have a keen interest in developing and bringing projects to life. While I possess significant back-end skills, I am constantly seeking new challenges to broaden my horizons.
 
