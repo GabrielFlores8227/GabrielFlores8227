@@ -38,7 +38,7 @@ Currently pursuing a degree in Systems Development. I have a keen interest in de
     <img src="https://img.shields.io/badge/-MongoDB-47973a?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-366d9d?style=for-the-badge&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-47973a?style=for-the-badge&logo=Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-python-366d9d?style=for-the-badge&logo=Pythont3&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-366d9d?style=for-the-badge&logo=Pythont3&logoColor=white" />
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/-Typescript-366d9d?style=for-the-badge&logo=Typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-Node.js-47973a?style=for-the-badge&logo=Node.js&logoColor=white" />
