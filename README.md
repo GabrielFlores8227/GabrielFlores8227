@@ -47,8 +47,6 @@ Full-Stack Developer and Linux Administrator, skilled in building robust web app
     <img src="https://img.shields.io/badge/-CSS-366d9d?style=for-the-badge&logo=CSS3&logoColor=white" />
 </p>
 
-I have a passion for building robust back-end applications, including REST APIs, SOAP APIs, and more. Additionally, I enjoy managing databases and Linux servers, ensuring that everything runs smoothly and efficiently.
-
 ## 🌎 [WebSite](https://www.gabriel-flores.dev/) 🌎
 
 [My personal website](https://www.gabriel-flores.dev/), where you can discover the real me! Here, I proudly showcase my projects and share my favorite repositories. It's a digital space that offers a glimpse into my world as a developer and allows you to explore my creative endeavors
