@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About 🚀
 
-Currently pursuing a degree in Systems Development. I have a keen interest in developing and bringing projects to life. While I possess significant back-end skills, I am constantly seeking new challenges to broaden my horizons.
+Full-Stack Developer and Linux Administrator, skilled in building robust web applications. Currently pursuing a degree in Analysis and Systems Development. Proficient in both back-end development and Linux server management, with expertise in database administration. Committed to delivering efficient, secure, and high-performing solutions. Always eager to learn and stay updated with the latest technologies.
 
 ## 🛠️ Main Tools 🛠️
 
