@@ -49,7 +49,7 @@ Full-Stack Developer and Linux Administrator, skilled in building robust web app
 
 ## 🌎 [WebSite](https://www.gabriel-flores.dev/) 🌎
 
-My personal website, where I showcase my projects and share my favorite repositories. It's a digital space that gives you a glimpse into my world as a developer and lets you explore my creative endeavors.
+🤠 My personal <a href="https://www.gabriel-flores.dev/">website</a>, where I showcase my projects and share my favorite repositories. It's a digital space that gives you a glimpse into my world as a developer and lets you explore my creative endeavors.
 
 ##   👩‍💻 Social Media  👩‍💻
 <p>
