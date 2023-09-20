@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About 🚀
 
-Full-Stack Developer and Linux Administrator, skilled in building robust web applications. Currently pursuing a degree in Analysis and Systems Development. Proficient in both back-end development and Linux server management, with expertise in database administration. Committed to delivering efficient, secure, and high-performing solutions. Always eager to learn and stay updated with the latest technologies.
+Full-Stack Developer and Cloud Architect with a strong foundation in Analysis and Systems Development. Proficient in designing and deploying robust web applications on cloud platforms. Skilled in both front-end and back-end development, with expertise in Linux server management, database administration, and cloud architecture.
 
 ## 🛠️ Main Tools 🛠️
 
