@@ -4,10 +4,6 @@
   </a>
 </div>
 
-## 🚀 About 🚀
-
-Full-Stack Developer and Cloud Architect with a strong foundation in Analysis and Systems Development. Proficient in designing and deploying robust web applications on cloud platforms. Skilled in both front-end and back-end development, with expertise in Linux server management, database administration, and cloud architecture.
-
 ## 🛠️ Main Tools 🛠️
 
 <p>
